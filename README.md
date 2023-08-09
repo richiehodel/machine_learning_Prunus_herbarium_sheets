@@ -8,3 +8,6 @@ However, it is sometimes easier to run them in Google Colab.
 * Here's a link to open the notebook that trims images in Google Colab: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/machine_learning_Prunus_herbarium_sheets/blob/main/Data_Processing-trimming_cpnuc.ipynb)
 
+* Here's a link to open the notebook that builds a classifier in Google Colab: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/machine_learning_Prunus_herbarium_sheets/blob/main/Prunus_hybridization_model.ipynb)
+The above classifier is trained to distinguish between two categories: solitary/corybmose or tropical racemose
