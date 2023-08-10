@@ -28,7 +28,7 @@ The above classifier is trained to distinguish between two categories: solitary/
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/machine_learning_Prunus_herbarium_sheets/blob/main/Prunus_gradCAM_cpnuc.ipynb)
 
 * Here's a link to open notebook 5 that *builds a 4-way classifier* in Google Colab: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/machine_learning_Prunus_herbarium_sheets/blob/main/Prunus_4groups_temptrop.ipynb)
 
 * Here's a link to open notebook 6 that *quantifies morphological space* in Google Colab: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/machine_learning_Prunus_herbarium_sheets/blob/main/Prunus_IVIS_temptrop.ipynb)
